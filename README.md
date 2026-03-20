@@ -1,7 +1,7 @@
 # Fintech Credit Operations & Profitability Strategy
 Role: Operations Strategy Manager <br>
 #### Status:
-- [ ] Phase 1 (Problem Definition & Logic Mapping)
+- [x] Phase 1 (Problem Definition & Logic Mapping)
 - [ ] Phase 2: Data Preparation & Cleaning
 - [ ] Phase 3: Exploratory Data Analysis (EDA)
 - [ ] Phase 4: Strategy Synthesis & Insights
