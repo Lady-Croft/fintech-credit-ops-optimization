@@ -1,6 +1,7 @@
 # Fintech Credit Operations & Profitability Strategy
 Role: Operations Strategy Manager <br>
-- [ ] Status: Phase 1(Problem Definition & Logic Mapping)
+#### Status:
+- [ ] Phase 1 (Problem Definition & Logic Mapping)
 
 ## Problem Statement
 Despite a 40% increase in user acquisition for a digital lender, net profit is declining due to rising default rates. This project proposes identifying high-risk segments and implementing an operational strategy to stabilise the business without stalling growth.
