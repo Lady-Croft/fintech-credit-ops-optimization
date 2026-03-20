@@ -1,7 +1,7 @@
 # Data Analysis Checklist
 - [ ] Handle Nulls & Outliers: Identify missing Income or CreditScore values. Check for "impossible" data (e.g., negative loan amounts).<br>
 - [ ] Feature Scaling: Determine if LoanAmount and AnnualIncome need normalisation for accurate comparison.<br>
-- [ ] Target Distribution: Calculate the baseline Default Rate ($NPL\%$) across the entire 255k dataset.<br>
+- [ ] Target Distribution: Calculate the baseline Default Rate ($NPL\%$) across the entire 10k dataset.<br>
 - [ ] Univariate Correlation: Which single factor has the highest correlation ($r$) with default? (Is it InterestRate? DTI Ratio? EmploymentLength?)<br>
 - [ ] Debt-to-Income (DTI) Stress Test: Segment users by DTI brackets (e.g., 0-20%, 21-40%, etc.) to find the "Safety Threshold."<br>
 - [ ] Interest Rate Sensitivity: Compare the InterestRate charged to defaulters vs. non-defaulters. Are we charging enough to cover the risk?<br>
