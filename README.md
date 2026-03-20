@@ -2,6 +2,11 @@
 Role: Operations Strategy Manager <br>
 #### Status:
 - [ ] Phase 1 (Problem Definition & Logic Mapping)
+- [ ] Phase 2: Data Preparation & Cleaning
+- [ ] Phase 3: Exploratory Data Analysis (EDA)
+- [ ] Phase 4: Strategy Synthesis & Insights
+- [ ] Phase 5: Solution Design (The "PM" Phase)
+- [ ] Phase 6: 90-Day Implementation Roadmap
 
 ## Problem Statement
 Despite a 40% increase in user acquisition for a digital lender, net profit is declining due to rising default rates. This project proposes identifying high-risk segments and implementing an operational strategy to stabilise the business without stalling growth.
