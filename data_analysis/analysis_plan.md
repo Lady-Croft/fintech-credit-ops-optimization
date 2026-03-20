@@ -5,7 +5,7 @@
 - [ ] Univariate Correlation: Which single factor has the highest correlation ($r$) with default? (Is it InterestRate? DTI Ratio? EmploymentLength?)<br>
 - [ ] Debt-to-Income (DTI) Stress Test: Segment users by DTI brackets (e.g., 0-20%, 21-40%, etc.) to find the "Safety Threshold."<br>
 - [ ] Interest Rate Sensitivity: Compare the InterestRate charged to defaulters vs. non-defaulters. Are we charging enough to cover the risk?<br>
-- [ ] Demographic Cross-Tabulation: Do certain Education levels or Employment types show significantly more resilience during repayment?<br>
+- [ ] Demographic Cross-Tabulation: Do certain Gender or Employment status show significantly more resilience during repayment?<br>
 - [ ] Segment Profitability (Unit Economics): Calculate the Net Contribution per segment <br>
 - [ ] "Leak" Identification: Identify the specific "Net-Negative" segment (e.g., Low Income + High Interest + Short Term).<br>
 - [ ] Strategy Validation: Simulate how a 10% reduction in lending to the highest-risk segment impacts the overall Portfolio ROI.<br>
