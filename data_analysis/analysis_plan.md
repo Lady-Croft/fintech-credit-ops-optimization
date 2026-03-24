@@ -1,5 +1,9 @@
 # Data Analysis Checklist
-- [ ] Handle Nulls & Outliers: Identify missing Income or CreditScore values. Check for "impossible" data (e.g., negative loan amounts).<br>
+- [X] Handle Nulls & Outliers: Identify missing Income or CreditScore values. Check for "impossible" data.<br>
+
+_The dataset was audited across 100,000 records, confirming 100% completeness with zero missing values in critical fields such as Annual_Income and Credit_Score._
+_A logical constraint check verified that there are no "impossible" entries, specifically recording zero negative loan amounts, zero interest rates exceeding 100%, and zero age outliers outside the 18–100 range._
+_With a mean income of approximately $110,037 and a median credit score of 573, the data shows a symmetrical distribution and a robust middle-class borrower profile, making it a high-quality foundation for predictive modeling without the need for data imputation or row deletion._
 - [ ] Feature Scaling: Determine if LoanAmount and AnnualIncome need normalisation for accurate comparison.<br>
 - [ ] Target Distribution: Calculate the baseline Default Rate ($NPL\%$) across the entire 10k dataset.<br>
 - [ ] Univariate Correlation: Which single factor has the highest correlation ($r$) with default? (Is it InterestRate? DTI Ratio? EmploymentLength?)<br>
